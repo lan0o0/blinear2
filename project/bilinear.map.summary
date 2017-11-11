@@ -1,0 +1,14 @@
+Analysis & Synthesis Status : Successful - Sun Jan 15 16:06:21 2012
+Quartus II Version : 8.1 Build 163 10/28/2008 SJ Full Version
+Revision Name : bilinear
+Top-level Entity Name : top
+Family : Cyclone III
+Total logic elements : 1,340
+    Total combinational functions : 1,325
+    Dedicated logic registers : 1,340
+Total registers : 1340
+Total pins : 76
+Total virtual pins : 0
+Total memory bits : 90,162
+Embedded Multiplier 9-bit elements : 21
+Total PLLs : 1

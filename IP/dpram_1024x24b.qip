@@ -1,0 +1,5 @@
+set_global_assignment -name IP_TOOL_NAME "RAM: 2-PORT"
+set_global_assignment -name IP_TOOL_VERSION "8.1"
+set_global_assignment -name VERILOG_FILE [file join $::quartus(qip_path) "dpram_1024x24b.v"]
+set_global_assignment -name MISC_FILE [file join $::quartus(qip_path) "dpram_1024x24b.bsf"]
+set_global_assignment -name MISC_FILE [file join $::quartus(qip_path) "dpram_1024x24b_bb.v"]
